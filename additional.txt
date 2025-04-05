@@ -1,0 +1,8 @@
+Misclassification cost (include according to the data for precision/F1/recall)
+Sonar (heatmap and SVM) - Done
+add confusion matrix for the best models
+use accuracy and delta for confidence level
+overfitting and underfitting
+convergence test
+catboost iteration test
+add runtime to the models
